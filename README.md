@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="link">Check out the demo</a>
+<a href="https://lucid-app.vercel.app/">Check out the demo</a>
 </P>
 <br />
 
